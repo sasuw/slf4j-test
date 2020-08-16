@@ -1,5 +1,9 @@
 ## Changelog
 
+### Version 1.2.1
+
+LoggingEvent.getFormattedMessage is now public
+
 ### Version 1.2.0
 
 Allows construction of standalone instances to facilitate logging in different
