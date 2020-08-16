@@ -423,7 +423,7 @@ public class LoggingEvent extends RichObject {
         }
     };
 
-    private String getFormattedMessage() {
+    public String getFormattedMessage() {
         return MessageFormatter.arrayFormat(getMessage(), getArguments().toArray()).getMessage();
     }
 
