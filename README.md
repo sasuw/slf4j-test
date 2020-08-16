@@ -9,3 +9,7 @@ Changes in this fork
 
   * LoggingEvent.getFormattedMessage is public (see [https://github.com/Mahoney/slf4j-test/issues/28](https://github.com/Mahoney/slf4j-test/issues/28))
 
+Build integration
+=============
+
+See https://jitpack.io/#sasuw/slf4j-test/1.2.1
